@@ -1,4 +1,4 @@
-# -Atividade-pratica-individual-N1
+# Atividade-pratica-individual-N1
 
 # Sistema Bancário em Java
 
